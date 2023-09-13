@@ -1,2 +1,2 @@
 ## seg4105_playground
-# README
+## Repository for SEG4105 Class

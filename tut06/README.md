@@ -1,4 +1,4 @@
-# SEG4105 - Tut05
+# SEG4105 - Tut06
 
 | Outline | Value |
 | --- | --- |

@@ -40,3 +40,6 @@
 ## Hill Chart (After this week)
 ![image](https://github.com/MichaelBosciglio/seg4105_playground/assets/55165965/963d50e4-56fe-4d8e-afde-a2d6e407df2d)
 
+## Minutes (Capstone Meetings)
+https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/blob/main/Minutes.md
+
